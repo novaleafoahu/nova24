@@ -50,7 +50,7 @@ params:
     enabled: true #false # needs to be explicitly set
     title: Nova-Leaf
     subtitle: "Established 2023"
-    imageUrl: "avatar.png"
+    imageUrl: "https://novaleafoahu.github.io/nova24/avatar.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
