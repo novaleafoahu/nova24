@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: http://nova-leaf.com/
 languageCode: en-us
 title: Nova Leaf
 theme: "PaperMod"
@@ -6,30 +6,31 @@ theme: "PaperMod"
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
-  description: "ExampleSite description"
+  description: "Nova Leaf enterprise"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: false
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: light # dark, light
   disableThemeToggle: false
-
-  ShowReadingTime: true
-  ShowShareButtons: true
+  ShowReadingTime: false
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
-  ShowRssButtonInSectionTermList: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
+
+  tableOfContents: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -41,24 +42,24 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Nova Leaf"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true #false # needs to be explicitly set
-    title: Nova-Leaf
-    subtitle: "Established 2023"
+    title: "Nova Leaf"
+    subtitle: "A source for tools and information to help people grow fruits, veggies, and plants."
     imageUrl: "https://novaleafoahu.github.io/nova24/avatar.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
       - name: Articles
-        url: posts
+        url: articles
       - name: Products
-        url: tags
+        url: products
 
   # home-info mode
   homeInfoParams:
@@ -66,12 +67,15 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
+    - name: etsy
+      url: "https://etsy.com/"
     - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+      url: "https://twitter.com"
+    - name: instagram
+      url: "https://instagram.com"
+    - name: tiktok
+      url: "https://tiktok.com"
+    
 
   analytics:
     google:
@@ -86,10 +90,7 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+
 
   # for search
   # https://fusejs.io/api/options.html
@@ -111,6 +112,10 @@ menu:
       name: Categories
       url: /categories/
       weight: 20
+    - identifier: Contact
+      name: Contact
+      url: /Contact/
+      weight: 30
 pygmentsUseClasses: true
 markup:
   highlight:
