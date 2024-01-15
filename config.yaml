@@ -52,7 +52,7 @@ params:
     title: "Nova Leaf"
     subtitle: "Sharing findings to help others grow fruits, veggies, and plants."
 
-    imageUrl: "https://novaleafoahu.github.io/nova24/avatar.png"
+    imageUrl: "http://nova-leaf.com/avatar.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
