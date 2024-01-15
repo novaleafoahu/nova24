@@ -27,7 +27,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: true
+  showtoc : true
   tocopen: true
 
   tableOfContents: true
@@ -50,7 +50,8 @@ params:
   profileMode:
     enabled: true #false # needs to be explicitly set
     title: "Nova Leaf"
-    subtitle: "A source for tools and information to help people grow fruits, veggies, and plants."
+    subtitle: "Sharing findings to help others grow fruits, veggies, and plants."
+
     imageUrl: "https://novaleafoahu.github.io/nova24/avatar.png"
     imageWidth: 120
     imageHeight: 120
@@ -86,9 +87,9 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    hidden: false # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInSingle: false # hide on single page
 
 
 
