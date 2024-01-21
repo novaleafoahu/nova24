@@ -105,7 +105,7 @@ menu:
   main:
     - identifier: About
       name: About
-      url: /About/
+      url: /about/
       weight: 10 
     - identifier: Categories
       name: Categories
@@ -113,7 +113,7 @@ menu:
       weight: 20
     - identifier: Contact
       name: Contact
-      url: /Contact/
+      url: /contact/
       weight: 30
 pygmentsUseClasses: true
 markup:
