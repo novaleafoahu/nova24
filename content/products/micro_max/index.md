@@ -1,5 +1,5 @@
 ---
-title: "Micro Mix"
+title: "Micro Max"
 date: 2024-01-06T19:03:11-05:00
 draft: false
 summary: "A brief tutorial on micro max"
@@ -16,14 +16,19 @@ cover:
 ### Micro Max nutrient
 This fertilizer may be applied to most plants. It comprises many nutrients. 
 
-Ingredients specification: [Here](MicromaxMicronutrients.pdf)
+Ingredients specification: [Here](MicromaxMicronutrients.pdf) 
 
 ## 💡 Instruction
-Included in the container, is a 3 ml scoop (1 Tablespoon). 
+Included in the container is 1 Tablespoon. 
 
 
-|  Serving size |  Usage|
+|  Usage |  Serving Size|
 |---|---|---|---|
-| 1 scoop ~30 grams | potted plant |
+| 1-2 qt pot | 1-2 grams |
+| 1 gal pot | 2-4 grams |
+| 3 gal pot | 6-13 grams |
+| 5 gal pot | 9-17 grams |
 
+Application instructions: [Here](Micromax_Sheet.pdf)
 
+![micromax](Capture.PNG "application")
