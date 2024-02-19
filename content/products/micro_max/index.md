@@ -19,7 +19,7 @@ This fertilizer may be applied to most plants. It comprises many nutrients.
 Ingredients specification: [Here](MicromaxMicronutrients.pdf) 
 
 ## 💡 Instruction
-Included in the container is 1 Tablespoon. 
+Included in the container is 1/2 Teaspoon scoop. Each scoop provides ~1.4 grams of Micromax.  
 
 
 |  Usage |  Serving Size|
