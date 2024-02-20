@@ -22,9 +22,9 @@ Ingredients specification: [Here](1203050_0450_3-22-18_GHS_backup-label.pdf) and
 
 
 ## 💡 Instruction
-Included in the container, is a 3 ml scoop (1 tablespoon). 
+Included in the container, is 1 tablespoon scoop. 
 
-Per 10 SF:  Apply 1 tablespoon and spread.
+Per 5 SF:  Apply 1 tablespoon and spread.
 
 
 Always water after feeding.
